@@ -1,4 +1,4 @@
-# sprint-5-proyecto
+# Proyecto 5 - gestión de entornos virtuales de python para el desarrollo de una aplicación web.
 Proyecto del sprint 5
 
 En este proyecto se realizaron actividades donde se integraron la creación y gestión de entornos virtuales de python para el desarrollo de una aplicación web, posteriormente se despliega la aplicación en un servicio en la nube.
