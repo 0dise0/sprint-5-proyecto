@@ -1,5 +1,4 @@
-# Proyecto 5 - gestión de entornos virtuales de python para el desarrollo de una aplicación web.
-Proyecto del sprint 5
+# Gestión de entornos virtuales de python para el desarrollo de una aplicación web.
 
 En este proyecto se realizaron actividades donde se integraron la creación y gestión de entornos virtuales de python para el desarrollo de una aplicación web, posteriormente se despliega la aplicación en un servicio en la nube.
 Se utilizó la herramienta de Visual Studio Code para la creación de entorno virtual, se utilizó el repositorio de Github para alojar el proyecto, finalmente se utilizó el servicio en la nube que proporciona render.com para desplegar la aplicación en la nube y que cualquier persona con acceso al link de la aplicación pueda acceder.
